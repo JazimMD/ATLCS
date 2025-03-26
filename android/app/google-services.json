@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921386741164",
+    "project_id": "atlcs-d5b14",
+    "storage_bucket": "atlcs-d5b14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921386741164:android:82b169860b49f73e169e09",
+        "android_client_info": {
+          "package_name": "com.fluttermapp.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjv3K-KTFUNArblYjP40OwjBoL9c5LXac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
